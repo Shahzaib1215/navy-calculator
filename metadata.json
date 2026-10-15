@@ -1,0 +1,6 @@
+{
+  "name": "Navy Calculator",
+  "description": "A modern calculator app with a crisp white and navy blue theme, featuring expression history logging and memory functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
